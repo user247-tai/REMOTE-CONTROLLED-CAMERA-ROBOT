@@ -2,6 +2,9 @@
 A remote controlled camera car using HTTP protocol. This project builds a remote-controlled camera car through a mobile app (built with MIT App Inventor), using the HTTP protocol and the ESP32, ESP32 CAM microcontroller.
 The “Remote-Controlled Camera Robot Using IoT” project aims to address the need for flexible and efficient surveillance systems that can adapt to diverse environments and scenarios, empowering users with remote control and real-time monitoring capabilities.
 
+![Diagram](https://github.com/user-attachments/assets/f4236866-58e4-4926-b6d0-8dcaf161e36d)
+
+
 We will use 1 ESP32 as the server broadcast Wi-Fi network, 1 ESP32 CAM and the user device with the control application installed as the clients connect to the Wi-Fi network broadcasted from the server. Clients and server communicate with each other via HTTP protocol.
 Achievement:
 - Here is a video about our achievement we achieved with our project: https://drive.google.com/file/d/1HVhV8xalqO2VKGNT3o4miHDFesW6CDvh/view?usp=drive_link
